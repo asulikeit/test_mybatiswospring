@@ -1,0 +1,14 @@
+message=로그인
+message.user.id=아이디
+message.user.password=비밀번호
+
+error.user.id=아이디는 필수 입력항목입니다.
+error.user.password=비밀번호는 필수 입력항목입니다.
+
+error.board.title=제목은 필수 입력항목입니다.
+error.board.writer=작성자는 필수 입력항목입니다.
+error.board.content=내용은 10글자 이상 작성해주세요.
+
+language.en=영어
+language.ko=한글
+
